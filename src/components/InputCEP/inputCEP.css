@@ -1,0 +1,31 @@
+.input__container {
+    background: #323232;
+    width: 400px;
+    height: 70px;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 2rem;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.input__container input {
+    flex: 1;
+    color: #FFF;
+    font-size: 20px;
+    padding: 1rem;
+    background: transparent;
+    border: none;
+    outline: none;
+    margin: 0 10px;
+}
+
+.input__container input::placeholder {
+    color: #FFF;
+}

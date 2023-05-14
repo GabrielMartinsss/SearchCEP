@@ -1,0 +1,24 @@
+* {
+    font-family: sans-serif;
+}
+
+.cardResult__container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5em;
+    
+    color: #fff;
+    background: #323232;
+    padding: 2rem;
+    border-radius: 10px;
+}
+
+h2 {
+    margin-top: 0;
+}
+
+strong {
+    color: #2975ff;
+}

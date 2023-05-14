@@ -1,0 +1,13 @@
+.btn-search {
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 1rem;
+}
+
+.btn-search svg {
+  margin: 0 auto;
+}

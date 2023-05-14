@@ -36,9 +36,7 @@ const App = () => {
         cep={cep}
       /> 
     }
-    
    </div>
-   
   )
 }
 

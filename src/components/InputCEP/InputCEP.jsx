@@ -5,7 +5,7 @@ import Button from '../Button/Button'
 
 const InputCEP = ( { inputValue, setInputValue, handleSearch } ) => {
     return (
-        <div className='input__container'>
+    <div className='input__container'>
             <input 
                 type="text"
                 placeholder="Digite o CEP..." 
